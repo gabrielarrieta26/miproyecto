@@ -4,3 +4,4 @@ Basicamente gestiona los horarios de los turnos, marcando los que están disponi
 inconsisitenciaen los turnos generados. Estos datos se guardan en una base de datos, para consultar disponibilidad y que hoarios
 por dia ya fueron ocupados. 
 Esta diseñado en lenguaje Java 17 con Spring Boot, utilizando el ide Intelijj IDEA, vinculado a una base de datos en HeidiSQL.
+<img width="1228" height="736" alt="diagrama de clases de gestion de turnos" src="https://github.com/user-attachments/assets/74dcf15e-6da8-4dfd-9802-9a9ceb8da6e1" />
